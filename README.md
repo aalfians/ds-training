@@ -1,2 +1,1 @@
-"# ds-training" 
-"# project" 
+# Repo Projek Traing STEM Prasmul
